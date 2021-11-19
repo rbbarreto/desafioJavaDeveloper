@@ -1,6 +1,4 @@
-# desafioJavaDeveloper
-BootCamp Spread
-
+# DesafioJavaDeveloper - BootCamp Spread
 
 Repositório de estudos do bootcamp Spread na Dio
 Através desse bootcamp serviu para treinar nossa logica de programação.
