@@ -1,7 +1,7 @@
 # DesafioJavaDeveloper - BootCamp Spread
 
-Repositório de estudos do bootcamp Spread na Dio
-Através desse bootcamp serviu para treinar nossa logica de programação.
+Repositório que servirar para estudo do que aprendi neste bootcamp Spread da Dio, 
+neste bootcamp foi muito bom porque conseguir aplicar a logica de programação.
 Estou colocando os código com base de conhecimento.
 
 <li>Xadrez</li> 
